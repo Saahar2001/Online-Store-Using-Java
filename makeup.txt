@@ -1,0 +1,4 @@
+itemID,itemName,brand,category,season,price
+1001,Lip Last Matte,Sephora,LipStick,Summer,120,
+1002,EyeShadow X8,MAC,EyeShadow,All Season,330,
+1003,Back Stage,Dior,Foundation,Limited Edition,410,
